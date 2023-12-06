@@ -1,0 +1,113 @@
+h1{
+    color:black;
+    font-size:50px;
+   
+
+}
+.text{
+    margin: 15px;
+    border:5px;
+    border-color:black;
+    color: goldenrod;
+   
+    border-radius:20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+body{
+    background-color: maroon;
+    margin:15px;
+    border:8px;
+    border-color:goldenrod;
+    border-style:solid;
+    border-radius:20px;
+
+}
+.nav{
+    border-style: solid;
+    
+    border-width: 3px;
+    border-color: goldenrod;
+    border-radius: 20px;
+    margin: 15px;
+    text-align: right;
+
+}
+.Navbaritems{
+    font-size:20px;
+    font-weight: 20;
+    display:inline-flex;
+    gap:8rem;
+    text-decoration:none;;
+   
+    text-align:center;
+    padding-right: 35px;
+    
+}
+li {
+    padding: 0px;
+    margin: 0px;
+}
+.nav li a {
+    text-decoration: none;
+    color: goldenrod;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 300;
+}
+.join {
+    margin-left: 200px;
+    margin-right: 25px;
+    padding: 12px;
+    background-color: goldenrod;
+    border-radius: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.join {
+    text-decoration: none;
+    color: maroon;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+    font-weight: bolder;
+
+}
+.icon {
+    float: left;
+    justify-content: space-between;
+    margin-left: 35px;
+    margin-top: 30px;
+}
+.icon i a {
+    text-decoration: none;
+    color: goldenrod;
+}
+
+.aboutus {
+    border-style: solid;
+    
+    border-width: 3px;
+    border-color: goldenrod;
+    border-radius: 20px;
+    margin: 15px;
+    text-align: center;
+}
+
+.aboutus ul {
+    line-height: 3;
+    word-spacing: 20px;
+    padding-right: 40px;
+}
+
+.aboutus li {
+    color: goldenrod;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    text-decoration: underline;
+}
+.aboutus h1{
+    color: goldenrod;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
